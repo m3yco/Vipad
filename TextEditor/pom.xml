@@ -1,0 +1,27 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>milazzdo</groupId>
+  <artifactId>TextEditor</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  
+  	<name>Vipad</name>
+  	<url>https://github.com/m3yco/Vipad</url>
+
+	<organization>
+		<name>Hochschule Albstadt-Sigmaringen</name>
+		<url>https://www.hs-albsig.de/</url>
+	</organization>
+
+	<developers>
+		<developer>
+			<id>milazzdo</id>
+			<name>Domenico Milazzo</name>
+			<email>milazzdo@hs-albsig.de</email>
+			<organization>Hochschule Albstadt-Sigmaringen</organization>
+			<organizationUrl>https://www.hs-albsig.de/</organizationUrl>
+			<roles>
+				<role>developer</role>
+			</roles>
+		</developer>
+	</developers>
+</project>
